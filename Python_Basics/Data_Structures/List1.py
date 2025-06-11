@@ -10,3 +10,7 @@ print(len(l2))
 # max : returns the maximum value in the list
 print(max(l1))
 print(max(l2))
+
+# min : returns the minimum value in the list
+print(min(l1))
+print(min(l2))
